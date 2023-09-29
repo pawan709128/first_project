@@ -1,0 +1,20 @@
+.nev {
+    background-color: rgba(10, 82, 175, 0.849);
+}
+.bu a{
+    text-decoration: none;
+    color: aliceblue;
+    margin:0.5%;
+}
+.bu a:hover{
+    color: blue;
+}
+
+.main{
+    height:70vh ;
+    
+}
+.img1{
+    height: 70vh;
+    width: 100%;
+}
